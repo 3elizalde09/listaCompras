@@ -1,0 +1,21 @@
+Que hacer en una plantilla que no funciona.
+
+1. Entender los objetivos y requerimientos de la aplicacion.
+2. Buscar e identificar los id's de los campos, botones, elementos HTML.
+3. Para realizar validaciones se recomienda, hacer la validacion en los botones.
+
+Los objetivos de la practica son:
+
+1. Validar la información de los campos
+2. Agregar elementos en una tabla.
+3. Crear un precio por producto al azar
+4. Realizar las operaciones para conocer el total de elementos
+5. Realizar las operaciones para conocer el total en costo
+6. Almacenar la información en el almacenamiento local del navegador
+7. Mostrar la información almacenada cuando se abra la página
+
+DESARROLLO
+
+1. Validar informaciónde los campos.
+
+Buscar el id del input Nombre.
